@@ -15,4 +15,4 @@ TV	https://www.metacritic.com/browse/tv
 
 Games	https://www.metacritic.com/browse/games
 
-#### Kaggle Info [here](https://www.kaggle.com/datasets/patkle/metacritic-scores-for-games-movies-tv-and-music)
+#### Kaggle Info: https://www.kaggle.com/datasets/patkle/metacritic-scores-for-games-movies-tv-and-music
