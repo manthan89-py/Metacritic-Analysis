@@ -8,6 +8,9 @@ The categories and the respective urls from which the data was obtained are list
 
 ### Category Link
 Movies	https://www.metacritic.com/browse/movies
+
 Music	https://www.metacritic.com/browse/movies/albums
+
 TV	https://www.metacritic.com/browse/tv
+
 Games	https://www.metacritic.com/browse/games
